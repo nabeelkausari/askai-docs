@@ -1,0 +1,15 @@
+{
+  "index": "Introduction",
+  "terms": "Terms and Conditions",
+  "privacy": "Privacy Policy",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "back": {
+    "title": "Back to AskAI ↗",
+    "type": "page",
+    "href": "https://askai.to",
+    "newWindow": true
+  }
+}
