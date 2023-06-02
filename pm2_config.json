@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "askai-docs",
+      "script": "npm",
+      "args": "run start"
+    }
+  ]
+}
