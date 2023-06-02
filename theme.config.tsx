@@ -153,6 +153,34 @@ const config: DocsThemeConfig = {
   editLink: {
     component: null,
   },
+  useNextSeoProps() {
+    return {
+      titleTemplate: '%s – AskAI Docs',
+    };
+  },
+  head: (
+    <>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta property="og:title" content="AskAI" />
+      <meta
+        property="og:description"
+        content="A Social Platform for AI Conversations"
+      />
+      <link rel="icon" href="https://askai.to/favicon.ico" />
+      <link
+        rel="icon"
+        type="image/png"
+        sizes="32x32"
+        href="https://askai.to/favicon-32x32.png"
+      />
+      <link
+        rel="icon"
+        type="image/png"
+        sizes="16x16"
+        href="https://askai.to/favicon-16x16.png"
+      />
+    </>
+  ),
 };
 
 export default config;
