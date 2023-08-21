@@ -5,9 +5,9 @@
     "type": "page"
   },
   "back": {
-    "title": "Back to AskAI ↗",
+    "title": "Back to OpenAsks ↗",
     "type": "page",
-    "href": "https://askai.to",
+    "href": "https://openasks.com",
     "newWindow": true
   }
 }

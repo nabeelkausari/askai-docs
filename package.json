@@ -1,7 +1,7 @@
 {
   "name": "askai-docs",
   "version": "0.0.1",
-  "description": "AskAI Docs",
+  "description": "OpenAsks Docs",
   "scripts": {
     "dev": "next dev",
     "build": "npx next build",
